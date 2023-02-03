@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-F24E1E?style=for-the-badge&logo=azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Aws-F24E1E?style=for-the-badge&logo=azure&logoColor=white" />
 
 
 ##### Tecnologias que já tive contato:
