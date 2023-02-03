@@ -28,14 +28,7 @@
 
 <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white"/> 
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> 
-<img src="https://camo.githubusercontent.com/fc18421f7a0316d73b23ce479359ae159eb7d758d4648438bd3cca3bc4b5e022/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4578706f2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d6578706f266c6f676f436f6c6f723d363144414642"/> 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 ---
 
 ##### Linkedin:
