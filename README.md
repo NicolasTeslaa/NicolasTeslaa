@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 Há mais de 4 anos desenvolvendo interfaces com JavaScript, Angular e Typescript. <br/>
+- 👨‍💻 Há mais de 2 anos desenvolvendo interfaces com as tecnologias citadas abaixo <br/>
 - 🎓 Faculdade de ADS em andamento e técnico concluido em Sistemas para Internet no Senai<br/>
 - 💡 Interesses em desenvolvimento Front-end com Angular, Bootstrap e Material UI. 
 
