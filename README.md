@@ -3,9 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo;Me+chamo+Nicolas+e+tenho+22+anos;Atualmente+desenvolvo+sistemas+para+gerenciar;quase+todos+os+departamentos+de+uma+empresa;Fique+a+vontade+para+visualizar;alguns+dos+meus+projetos!+:%29)](https://git.io/typing-svg)
 
 
+
+
 - 👨‍💻 Há mais de 4 anos desenvolvendo interfaces com JavaScript, Angular e Typescript. <br/>
-- 🎓 Faculdade de ADS em andamento, técnico em Sistemas para Internet Concluido  <br/>
-- 💡 Interesses em desenvolvimento Front-end com Angular, Bootstrap, Material UI. 
+- 🎓 Faculdade de ADS em andamento e técnico concluido em Sistemas para Internet no Senai<br/>
+- 💡 Interesses em desenvolvimento Front-end com Angular, Bootstrap e Material UI. 
 
 
 ##### Tecnologias que trabalho no dia-dia:
@@ -25,7 +27,7 @@
 🚀 Tentando ser um pouquinho melhor do que ontem.
  
 
-### Ferraamentas Utilizadas:
+### Ferramentas Utilizadas:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -59,8 +61,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div>
+<a href="https://www.linkedin.com/in/nicolas-fernando-949b49192/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
