@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo;Me+chamo+Nicolas+e+tenho+22+anos;Atualmente+desenvolvo+sistemas+para+gerenciar;quase+todos+os+departamentos+de+uma+empresa;Fique+a+vontade+para+visualizar;alguns+dos+meus+projetos!+:%29)](https://git.io/typing-svg)
 
 
-- 👨‍💻 Há mais de 2 anos desenvolvendo e programando interfaces com JavaScript, React JS e Typescript. <br/>
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Fatec SJC  <br/>
-- 💡 Interesses em desenvolvimento Front-end com React, React Native e UX/UI Design. 
+- 👨‍💻 Há mais de 4 anos desenvolvendo interfaces com JavaScript, Angular e Typescript. <br/>
+- 🎓 Faculdade de ADS em andamento, técnico em Sistemas para Internet Concluido  <br/>
+- 💡 Interesses em desenvolvimento Front-end com Angular, Bootstrap, Material UI. 
 
 
 ##### Tecnologias que trabalho no dia-dia:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
+<img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB" alt="React" /> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
