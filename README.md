@@ -19,7 +19,7 @@
 
 ##### Linkedin:
  
-[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Fernando-0077B5?style=flat-square&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/nicolas-fernando-949b49192/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Fernando-0077B5?style=flat-square&logo=Linkedin&logoColor=white)(<https://www.linkedin.com/in/nicolas-fernando-949b49192/>)
 
 
 🚀 Tentando ser um pouquinho melhor do que ontem.
