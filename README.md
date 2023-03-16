@@ -7,7 +7,7 @@
 
 - 👨‍💻 Há mais de 2 anos desenvolvendo interfaces com as tecnologias citadas abaixo <br/>
 - 🎓 Faculdade de Desenvolvimento Full Stack em andamento e técnico concluido em Sistemas para Internet no Senai<br/>
-- 💡 Interesses em desenvolvimento Front-end com Angular, Bootstrap e Material UI. 
+- 💡 Interesses em desenvolvimento Full Stack Web e Mobile 
 
 
 ##### Tecnologias que trabalho no dia-dia:
