@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo;Me+chamo+Nicolas+e+tenho+22+anos;Atualmente+desenvolvo+sistemas+para+gerenciar;quase+todos+os+departamentos+de+uma+empresa;Fique+a+vontade+para+visualizar;alguns+dos+meus+projetos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+portfolio:%29)](https://git.io/typing-svg)
 
 
 - 🎓 Superior de Desenvolvimento Full Stack em andamento e Técnico concluido em Sistemas para Internet no Senai<br/>
