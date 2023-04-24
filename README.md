@@ -3,12 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo;Me+chamo+Nicolas+e+tenho+22+anos;Atualmente+desenvolvo+sistemas+para+gerenciar;quase+todos+os+departamentos+de+uma+empresa;Fique+a+vontade+para+visualizar;alguns+dos+meus+projetos!+:%29)](https://git.io/typing-svg)
 
 
-
-
-- 👨‍💻 Há mais de 2 anos desenvolvendo interfaces com as tecnologias citadas abaixo <br/>
-- 🎓 Faculdade de Desenvolvimento Full Stack em andamento e técnico concluido em Sistemas para Internet no Senai<br/>
-- 💡 Interesses em desenvolvimento Full Stack Web e Mobile 
-
+- 🎓 Superior de Desenvolvimento Full Stack em andamento e Técnico concluido em Sistemas para Internet no Senai<br/>
 
 ##### Tecnologias que trabalho no dia-dia:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=red" alt="Angular" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
