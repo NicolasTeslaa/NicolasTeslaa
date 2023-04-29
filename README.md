@@ -66,7 +66,7 @@
 ### Resumo das Hard Skills
 <div align="center">
   <a href="https://github.com/NicolasTeslaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTeslaa&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTeslaa&layout=compact&langs_count=7&theme=highcontrast"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=NicolasTeslaa&theme=Javascript-dark&border_radius=7&locale=pt_BR&date_format=j%20M%5B%20Y%5D)">
 </div>
 
