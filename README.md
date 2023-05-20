@@ -2,7 +2,8 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+portfolio:%29)](https://git.io/typing-svg)
 
-- 👨‍💻 Estagiando Engenharia de Software Full Stack<br/>
+- 👨‍💻 Estagiando Engenharia de Software Backend<br/>
+- 👨‍💻 1 ano de Experiência (Freelancing) com Frontend Angular <br/>
 - 🎓 Superior em Desenvolvimento Full Stack em andamento<br/>
 - 🎓 Técnico concluido em Sistemas para Internet no Senai<br/>
 
