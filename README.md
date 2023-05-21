@@ -1,7 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+portfolio:%29)](https://git.io/typing-svg)
-
+## Sobre Mim
 - 👨‍💻 Estagiando Engenharia de Software Backend<br/>
 - 💬 1 ano de Experiência (Freelancing) com Frontend Angular <br/>
 - 🎓 Superior em Desenvolvimento Full Stack em andamento<br/>
@@ -20,24 +17,7 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🌐Contato:
-
 <a href="https://www.linkedin.com/in/nicolas-fernando-949b49192/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -45,13 +25,9 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-
 ## 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/NicolasTeslaa">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTeslaa&layout=compact&langs_count=7&theme=highcontrast"/>
   <img height="250em" src="https://streak-stats.demolab.com?user=NicolasTeslaa&theme=Javascript-dark&border_radius=7&locale=pt_BR&date_format=j%20M%5B%20Y%5D)">
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
