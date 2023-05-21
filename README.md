@@ -1,8 +1,8 @@
 ## 🧑 Sobre Mim
 - 👨‍💻 Estagiando Engenharia de Software Backend<br/>
-- 💬 1 ano de Experiência (Freelancing) com Frontend Angular <br/>
+- 💬 2 anos de Experiência (Freelancing) com Frontend <br/>
 - 🎓 Superior em Desenvolvimento Full Stack em andamento<br/>
-- 📚 Técnico concluido em Sistemas para Internet no Senai<br/>
+- 📚 Técnico Concluido em Sistemas para Internet no Senai<br/>
 
 
 ## 💻 Tech Stack:
