@@ -1,4 +1,4 @@
-## Sobre Mim
+## 🧑 Sobre Mim
 - 👨‍💻 Estagiando Engenharia de Software Backend<br/>
 - 💬 1 ano de Experiência (Freelancing) com Frontend Angular <br/>
 - 🎓 Superior em Desenvolvimento Full Stack em andamento<br/>
