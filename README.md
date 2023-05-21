@@ -9,7 +9,8 @@
 
 
 # 💻 Tech Stack:
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
@@ -74,14 +75,13 @@
 
 ### Estudando no momento:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 
 <div align="center">
 
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/NicolasTeslaa">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTeslaa&layout=compact&langs_count=7&theme=highcontrast"/>
