@@ -7,29 +7,14 @@
 - 🎓 Superior em Desenvolvimento Full Stack em andamento<br/>
 - 🎓 Técnico concluido em Sistemas para Internet no Senai<br/>
 
+##### Tecnologias que mais domino:
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-# 💻 Tech Stack:
+##### Tecnologias que já tive contato:
 
+## <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white"/> <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🌐Contato:
+##### Contato:
 
 <a href="https://www.linkedin.com/in/nicolas-fernando-949b49192/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -81,7 +66,7 @@
 
 </div>
 
-# 📊 GitHub Stats:
+### Resumo das Hard Skills
 <div align="center">
   <a href="https://github.com/NicolasTeslaa">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTeslaa&layout=compact&langs_count=7&theme=highcontrast"/>
