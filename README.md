@@ -6,8 +6,7 @@ Sou Analista de Planejamento no Grupo Casas Bahia, atuando diretamente na automa
 <br/>
 Tenho uma sólida trajetória como desenvolvedor Full Stack Web, com experiência em tecnologias como Angular, HTML, CSS e TypeScript. Atuei em projetos de diferentes segmentos, entregando soluções personalizadas para diversas empresas, com destaque para a manutenção contínua de aplicações em produção e a integração com APIs, assegurando a evolução e estabilidade dos sistemas.
 <br/>
-Anteriormente, fui Desenvolvedor de Software na Labsoft Tecnologia, onde participei do desenvolvimento e evolução de sistemas myLIMS voltados para laboratórios. Minha atuação envolveu análise de indicadores, acompanhamento de SLAs e foco na melhoria contínua, trabalhando de forma colaborativa com times de produto e suporte para entregar valor ao cliente final.
-<br/>
+Anteriormente, atuei como Desenvolvedor de Software na Labsoft Tecnologia, contribuindo diretamente para a evolução do sistema myLIMS, voltado para laboratórios. Fui responsável pela criação de novas funcionalidades e módulos, além da correção de bugs e resolução de problemas em produção. Trabalhei em colaboração com os times de produto, suporte e qualidade, sempre com foco na entrega de valor ao cliente. Também participei das análises de indicadores para acompanhar métricas relevantes ao desempenho do sistema.<br/>
 Sou movido por desafios, tenho uma abordagem colaborativa no dia a dia e acredito que a tecnologia deve ser uma aliada estratégica dos negócios. Valorizo ambientes que promovem inovação, autonomia e crescimento contínuo, e busco contribuir ativamente para resultados com impacto real.
 <br/>
 ### 💻 Tech Stack:
