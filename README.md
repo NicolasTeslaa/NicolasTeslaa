@@ -1,8 +1,15 @@
 ### 🧑 Sobre Mim
-- 🎓 Superior em Desenvolvimento Full Stack em andamento<br/>
+- 🎓 Superior em Engenharia de Softawre<br/>
 - 📚 Técnico Concluido em Sistemas para Internet no Senai<br/>
 
-
+Sou Analista de Planejamento no Grupo Casas Bahia, atuando diretamente na automação e otimização de processos por meio do desenvolvimento de soluções em C#. Além de reduzir tarefas manuais e ampliar a eficiência operacional, também desenvolvo soluções web escaláveis utilizadas nacionalmente por todas as filiais da Casas Bahia, contribuindo diretamente para a transformação digital da companhia. No desenvolvimento das soluções, aplico práticas como Clean Architecture e Domain-Driven Design (DDD) para garantir código modular, manutenível e alinhado ao domínio do negócio.
+<br/>
+Tenho uma sólida trajetória como desenvolvedor Full Stack Web, com experiência em tecnologias como Angular, HTML, CSS e TypeScript. Atuei em projetos de diferentes segmentos, entregando soluções personalizadas para diversas empresas, com destaque para a manutenção contínua de aplicações em produção e a integração com APIs, assegurando a evolução e estabilidade dos sistemas.
+<br/>
+Anteriormente, fui Desenvolvedor de Software na Labsoft Tecnologia, onde participei do desenvolvimento e evolução de sistemas myLIMS voltados para laboratórios. Minha atuação envolveu análise de indicadores, acompanhamento de SLAs e foco na melhoria contínua, trabalhando de forma colaborativa com times de produto e suporte para entregar valor ao cliente final.
+<br/>
+Sou movido por desafios, tenho uma abordagem colaborativa no dia a dia e acredito que a tecnologia deve ser uma aliada estratégica dos negócios. Valorizo ambientes que promovem inovação, autonomia e crescimento contínuo, e busco contribuir ativamente para resultados com impacto real.
+<br/>
 ### 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
