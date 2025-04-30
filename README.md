@@ -29,7 +29,7 @@ Sou movido por desafios, tenho uma abordagem colaborativa no dia a dia e acredit
 <a href="https://www.linkedin.com/in/nicolas-fernando-949b49192/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://api.whatsapp.com/send/?phone=5511951294947&text&type=phone_number&app_absent=0" target="_blank">
+<a href="https://api.whatsapp.com/send/?phone=5511910246542&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
