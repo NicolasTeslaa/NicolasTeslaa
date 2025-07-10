@@ -1,5 +1,5 @@
 ### 🧑 Sobre Mim
-- 🎓 Superior em Engenharia de Softawre<br/>
+- 🎓 Superior em Engenharia de Software<br/>
 - 📚 Técnico Concluido em Sistemas para Internet no Senai<br/>
 
 Sou Analista de Planejamento no Grupo Casas Bahia, atuando diretamente na automação e otimização de processos por meio do desenvolvimento de soluções em C#. Além de reduzir tarefas manuais e ampliar a eficiência operacional, também desenvolvo soluções web escaláveis utilizadas nacionalmente por todas as filiais da Casas Bahia, contribuindo diretamente para a transformação digital da companhia. No desenvolvimento das soluções, aplico práticas como Clean Architecture e Domain-Driven Design (DDD) para garantir código modular, manutenível e alinhado ao domínio do negócio.
