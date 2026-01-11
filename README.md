@@ -2,20 +2,22 @@
 - 🎓 Superior em Engenharia de Software<br/>
 - 📚 Técnico Concluido em Sistemas para Internet no Senai<br/>
 Desenvolvedor .NET Pleno
+Desenvolvedor .NET Pleno
 
-Atuo no desenvolvimento de soluções completas, sendo responsável por todo o ciclo de vida do software — da concepção e arquitetura até implantação, monitoramento e evolução em produção.
+Atuo no desenvolvimento de soluções completas, sendo responsável por todo o ciclo de vida do software — da concepção e arquitetura até a implantação, monitoramento e evolução em produção.
 
-	•	Desenvolvimento Back-end com C# e .NET (8+), focado em aplicações monolíticas bem estruturadas, aplicando SOLID, Clean Code e boas práticas de arquitetura;
-	•	Desenvolvimento Front-end com Blazor, além de experiência com React, HTML, CSS, TypeScript e JavaScript (Bootstrap, Tailwind, Material UI);
-	•	Integração de sistemas via APIs REST, garantindo segurança, desempenho e manutenibilidade;
-	•	Experiência sólida com bancos de dados relacionais: SQL Server, Oracle e MySQL;
-	•	Escrita de testes unitários com xUnit, visando confiabilidade e redução de regressões;
-	•	Conhecimento prático em Cloud e infraestrutura, atuando com Azure, VPS Linux, IIS (Windows), Nginx e PM2 (Node.js);
-	•	Versionamento e gestão de código com Git e Azure DevOps;
-	•	Atuação em ambientes ágeis, com Scrum, acompanhando métricas de entrega e qualidade.
+• Desenvolvimento Back-end com C# e .NET (8+), focado em aplicações monolíticas bem estruturadas, aplicando princípios de SOLID, Clean Code e boas práticas de arquitetura;
+• Desenvolvimento Front-end com Blazor, além de experiência com React, HTML, CSS, TypeScript e JavaScript (Bootstrap, Tailwind e Material UI);
+• Integração de sistemas por meio de APIs REST, garantindo segurança, desempenho e manutenibilidade;
+• Experiência sólida com bancos de dados relacionais: SQL Server, Oracle e MySQL;
+• Escrita de testes unitários com xUnit, visando maior confiabilidade e redução de regressões;
+• Conhecimento prático em Cloud e infraestrutura, atuando com Azure, VPS Linux, IIS (Windows), Nginx e PM2 (Node.js);
+• Containerização e padronização de ambientes com Docker, tanto para desenvolvimento local quanto para implantação em produção;
+• Experiência com mensageria assíncrona e arquiteturas orientadas a eventos, utilizando RabbitMQ e Apache Kafka;
+• Versionamento e gestão de código com Git e Azure DevOps;
+• Atuação em ambientes ágeis, utilizando Scrum, com acompanhamento de métricas de entrega e qualidade.
 
 No meu papel atual, sou responsável por arquitetar, desenvolver e implantar sistemas críticos, tomando decisões técnicas alinhadas às necessidades reais do negócio, priorizando simplicidade, estabilidade e evolução sustentável.
-
 
 ### 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
