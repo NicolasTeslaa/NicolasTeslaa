@@ -1,15 +1,22 @@
 ### 🧑 Sobre Mim
 - 🎓 Superior em Engenharia de Software<br/>
 - 📚 Técnico Concluido em Sistemas para Internet no Senai<br/>
+Desenvolvedor .NET Pleno
 
-Sou Analista de Planejamento no Grupo Casas Bahia, atuando diretamente na automação e otimização de processos por meio do desenvolvimento de soluções em C#. Além de reduzir tarefas manuais e ampliar a eficiência operacional, também desenvolvo soluções web escaláveis utilizadas nacionalmente por todas as filiais da Casas Bahia, contribuindo diretamente para a transformação digital da companhia. No desenvolvimento das soluções, aplico práticas como Clean Architecture e Domain-Driven Design (DDD) para garantir código modular, manutenível e alinhado ao domínio do negócio.
-<br/>
-Tenho uma sólida trajetória como desenvolvedor Full Stack Web, com experiência em tecnologias como Angular, HTML, CSS e TypeScript. Atuei em projetos de diferentes segmentos, entregando soluções personalizadas para diversas empresas, com destaque para a manutenção contínua de aplicações em produção e a integração com APIs, assegurando a evolução e estabilidade dos sistemas.
-<br/>
-Anteriormente, atuei como Desenvolvedor de Software na Labsoft Tecnologia, contribuindo diretamente para a evolução do sistema myLIMS, voltado para laboratórios. Fui responsável pela criação de novas funcionalidades e módulos, além da correção de bugs e resolução de problemas em produção. Adotei práticas de TDD (Test-Driven Development) e desenvolvi testes automatizados para garantir a qualidade de tudo que era implementado. Trabalhei em colaboração com os times de produto, suporte e qualidade, sempre com foco na entrega de valor ao cliente. Também participei das análises de indicadores para acompanhar métricas relevantes ao desempenho do sistema.
-<br/>
-Sou movido por desafios, tenho uma abordagem colaborativa no dia a dia e acredito que a tecnologia deve ser uma aliada estratégica dos negócios. Valorizo ambientes que promovem inovação, autonomia e crescimento contínuo, e busco contribuir ativamente para resultados com impacto real.
-<br/>
+Atuo no desenvolvimento de soluções completas, sendo responsável por todo o ciclo de vida do software — da concepção e arquitetura até implantação, monitoramento e evolução em produção.
+
+	•	Desenvolvimento Back-end com C# e .NET (8+), focado em aplicações monolíticas bem estruturadas, aplicando SOLID, Clean Code e boas práticas de arquitetura;
+	•	Desenvolvimento Front-end com Blazor, além de experiência com React, HTML, CSS, TypeScript e JavaScript (Bootstrap, Tailwind, Material UI);
+	•	Integração de sistemas via APIs REST, garantindo segurança, desempenho e manutenibilidade;
+	•	Experiência sólida com bancos de dados relacionais: SQL Server, Oracle e MySQL;
+	•	Escrita de testes unitários com xUnit, visando confiabilidade e redução de regressões;
+	•	Conhecimento prático em Cloud e infraestrutura, atuando com Azure, VPS Linux, IIS (Windows), Nginx e PM2 (Node.js);
+	•	Versionamento e gestão de código com Git e Azure DevOps;
+	•	Atuação em ambientes ágeis, com Scrum, acompanhando métricas de entrega e qualidade.
+
+No meu papel atual, sou responsável por arquitetar, desenvolver e implantar sistemas críticos, tomando decisões técnicas alinhadas às necessidades reais do negócio, priorizando simplicidade, estabilidade e evolução sustentável.
+
+
 ### 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
